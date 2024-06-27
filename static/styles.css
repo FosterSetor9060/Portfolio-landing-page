@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+.profile-pic {
+    width: 150px;
+    height: 150px;
+}
+
+ 
+
+section {
+    margin-bottom: 20px;
+}
+
+.card-title {
+    font-size: 1.25rem;
+    color: #007bff;
+}
+
+footer {
+    margin-top: 20px;
+}
